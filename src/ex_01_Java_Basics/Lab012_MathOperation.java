@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab009_MathOperation {
+public class Lab012_MathOperation {
 
     public static void main(String[] args) {
 

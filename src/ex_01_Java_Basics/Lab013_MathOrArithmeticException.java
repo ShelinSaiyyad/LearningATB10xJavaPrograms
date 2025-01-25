@@ -1,6 +1,6 @@
 package ex_01_Java_Basics;
 
-public class Lab10_MathOrArithmeticException {
+public class Lab013_MathOrArithmeticException {
 
     public static void main(String[] args) {
 
