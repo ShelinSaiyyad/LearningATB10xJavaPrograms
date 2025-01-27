@@ -10,5 +10,10 @@ public class Lab025_Constants {
         final float Pi = 3.14f;
         //Pi = 90; not possible to change the value of Pi bcoz it's a constant
         System.out.println(Pi);
+
+        final int girls_age = 18;
+        //girls_age = 19;
+        //girls_age = girls_age + 2;
+        System.out.println(girls_age);
     }
 }

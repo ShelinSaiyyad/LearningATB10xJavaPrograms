@@ -9,6 +9,10 @@ public class Lab015_Variables1 {
         age = 27;
         System.out.println(age);
 
+
+        float x = 10;
+        System.out.println(x);
+
     }
 
 }
