@@ -1,6 +1,4 @@
-package ex_02_Literals;
-
-import org.w3c.dom.ls.LSOutput;
+package ex_03_Literals;
 
 public class Lab032_Literals_for_different_No_System {
     public static void main(String[] args) {
