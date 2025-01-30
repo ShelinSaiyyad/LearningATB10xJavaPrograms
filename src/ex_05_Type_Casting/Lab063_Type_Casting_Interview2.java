@@ -1,6 +1,6 @@
 package ex_05_Type_Casting;
 
-public class Lab062_Type_Casting_Interview2 {
+public class Lab063_Type_Casting_Interview2 {
     public static void main(String[] args) {
 
         int course = 100;
