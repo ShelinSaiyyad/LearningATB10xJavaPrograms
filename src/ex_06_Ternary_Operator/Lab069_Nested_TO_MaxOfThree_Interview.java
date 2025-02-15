@@ -16,7 +16,7 @@ public class Lab069_Nested_TO_MaxOfThree_Interview {
 //        Y1 ->  n1 >= n3 : Y (n1) : N (n3)
 //        N1 ->  n2 > n3  : Y (n2) : N (n3)
 
-        int n1 = 100, n2 = 34, n3 =76660;
+        int n1 = 100, n2 = 34, n3 =100;
         int max = (n1 >= n2) ? ((n1 >= n3) ? n1 : n3) : ((n2 >= n3) ? n2 : n3);
         System.out.println("Max number is " + max);
     }
