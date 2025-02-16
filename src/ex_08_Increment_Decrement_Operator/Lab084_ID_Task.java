@@ -1,6 +1,6 @@
-package ex_07_Increment_Decrement_Operator;
+package ex_08_Increment_Decrement_Operator;
 
-public class Lab082_ID_Task {
+public class Lab084_ID_Task {
     public static void main(String[] args) {
 
         int a = 20;

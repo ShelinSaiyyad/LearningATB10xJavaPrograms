@@ -1,6 +1,6 @@
-package ex_07_Increment_Decrement_Operator;
+package ex_08_Increment_Decrement_Operator;
 
-public class Lab079_Post_Decrement {
+public class Lab082_Post_Decrement {
     public static void main(String[] args) {
 
         // post - decrement - operand--

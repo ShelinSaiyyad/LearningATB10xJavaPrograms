@@ -1,11 +1,11 @@
-package ex_07_Increment_Decrement_Operator;
+package ex_08_Increment_Decrement_Operator;
 
-public class Lab077_Post_Increment {
+public class Lab080_Post_Increment {
     public static void main(String[] args) {
 
         // post - increment - operand++
         // value is printed/stored first and then incremented in the result.
-        int a = 10; //( ++a -> a+1)
+        int a = 10; //( a++ -> a+1)
         int b = a++; //a -> 11, b -> 10
         System.out.println(b);
         System.out.println(a);

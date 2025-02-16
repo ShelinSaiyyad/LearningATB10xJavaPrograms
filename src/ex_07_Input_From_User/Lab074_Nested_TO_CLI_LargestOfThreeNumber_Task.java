@@ -1,4 +1,4 @@
-package ex_07_Command_Line_Parameters;
+package ex_07_Input_From_User;
 
 public class Lab074_Nested_TO_CLI_LargestOfThreeNumber_Task {
     public static void main(String[] args) {
