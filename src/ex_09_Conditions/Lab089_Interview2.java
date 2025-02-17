@@ -1,0 +1,15 @@
+package ex_09_Conditions;
+
+public class Lab089_Interview2 {
+    public static void main(String[] args){
+
+        boolean b = !true;
+
+        if (b){
+            System.out.println("b is true.");
+        }
+        else{
+            System.out.println("b is not true.");
+        }
+    }
+}
