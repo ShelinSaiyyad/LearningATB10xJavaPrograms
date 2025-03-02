@@ -16,5 +16,7 @@ public class Lab088_Interview1 {
            System.out.println("hohoho");
        }
 
+       sc.close();
+
    }
 }
