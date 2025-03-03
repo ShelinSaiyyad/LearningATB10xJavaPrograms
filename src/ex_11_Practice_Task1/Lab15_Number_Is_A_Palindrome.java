@@ -3,7 +3,7 @@ package ex_11_Practice_Task1;
 import java.util.Scanner;
 
 public class Lab15_Number_Is_A_Palindrome {
-    public static void main(String args []) {
+    public static void main(String [] args) {
 
 
         Scanner sc = new Scanner(System.in);
